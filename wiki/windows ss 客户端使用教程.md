@@ -13,6 +13,7 @@ PAC 模式————访问国内网站流量不通过海外服务器主机（�
 全局模式———— 所有访问网站流量都通过海外服务器主机 
 
 ![1](http://vpn.taobaoliao.cn/client/readme/windows/step-6.png)
+
 查看服务器地址和端口，可以互相切换线路
 
 
