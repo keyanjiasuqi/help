@@ -1,4 +1,6 @@
-码农VPN网址：www.manongvpn.com 最新活动及公告发布区，请大家Fork，以做备用，谢谢。
+码农VPN网址：www.manongvpn.com 最新活动及公告发布区，请大家STAR，以做备用，谢谢。
+
+<b><font color=red>最新活动：新会员专属1元试用7天！免费注册链接：http://www.manongvpn.com/auth/register</font></b>
 
 码农VPN google+主页：https://plus.google.com/communities/112744284752266329726    请大家加入社群，以做备用。
 
