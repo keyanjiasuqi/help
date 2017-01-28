@@ -2,5 +2,5 @@
 
 <b><font color=red>最新活动：迎新年，新年邀请码限量放出！SS节点永久免费！永久免费！永久免费！注册链接：http://www.manongvpn.com/code </font></b>
 
-提交ISSUE区：https://github.com/manongvpn/manongvpn/issues
+提交问题：https://github.com/manongvpn/manongvpn/issues
 
