@@ -1,4 +1,5 @@
 
+Life is short,I choose MaNong SS！
 
 自从有了码农加速器，一口气上google,youtube，so easy
 
