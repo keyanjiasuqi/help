@@ -1,5 +1,5 @@
 
-Life is short,I choose MaNong SS！
+人生苦短，我用科研加速器，妈妈再也不担心我的上网了
 
 自从有了码农加速器，一口气上google,youtube，so easy
 
@@ -7,12 +7,8 @@ Life is short,I choose MaNong SS！
 
 每年花上一笔买衣服的钱，整年无忧上Google
 
-免费注册！免费注册！免费注册！重要的话说三遍！
-
 TRY FOR FREE!TRY FOR FREE! TRY FOR FREE!
 
 留下网址，聪明的小伙伴们都已经在使用了码农加速器
-
-https://www.manongvpn.com/
 
 提交问题：https://github.com/manongvpn/manongvpn/issues
