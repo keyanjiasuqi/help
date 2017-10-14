@@ -10,5 +10,3 @@
 TRY FOR FREE!TRY FOR FREE! TRY FOR FREE!
 
 留下网址，聪明的小伙伴们都已经在使用了码农加速器
-
-提交问题：https://github.com/manongvpn/manongvpn/issues
