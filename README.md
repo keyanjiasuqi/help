@@ -7,6 +7,4 @@
 
 每年花上一笔买衣服的钱，整年无忧上Google
 
-TRY FOR FREE!TRY FOR FREE! TRY FOR FREE!
-
-留下网址，聪明的小伙伴们都已经在使用了码农加速器
+使用教程：https://github.com/keyanjiasuqi/help/wiki
